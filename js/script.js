@@ -65,4 +65,3 @@ submitBtn.addEventListener('click', () => {
   console.log('Submit button is functional!');
 
 });
-//seeing if this shows up on git
